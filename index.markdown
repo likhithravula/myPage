@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Hello! This is my blog page!
