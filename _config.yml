@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+
+author:
+  name        : "Likhith Ravula"
+  bio         : "Software developer."
+#   avatar      : "/assets/images/raja.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/likhithravula"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/likhithravula/"
