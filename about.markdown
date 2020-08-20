@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Hi! My name is Likhith Ravula, a Computer Science graduate.
+
 You will likely see blogs related to tech here.
 
 You can find my projects and their source code [here](https://github.com/likhithravula)
